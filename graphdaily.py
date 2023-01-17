@@ -25,12 +25,10 @@ def plot_monthly_usage(month):
     daily_usage_pivot = daily_usage.pivot(index='USAGE_START_TIME', columns='DAY', values='USAGE_KWH')
 
     # create the heatmap
-    sns.heatmap(daily_usage_pivot, cmap='YlGnBu')
-    plt.title(f'Hourly electricity usage for August')
+    sns.heatmap(daily_usage_pivot, cmap='YlGnBu', cbar_kws={'label': 'Usage (kWh)'})
+    plt.title(f'Hourly electricity usage for month {month}')
     plt.xlabel('Day')
     plt.ylabel('Time')
-
-    # show the plot
     plt.show()
 
 plot_monthly_usage(8)
