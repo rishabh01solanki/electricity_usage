@@ -1,3 +1,5 @@
+# Electricity Usage
+
 ![Usage for August](aug_usage.png)
 
 ## Overview
