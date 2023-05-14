@@ -1,6 +1,7 @@
 ![Usage for August](aug_usage.png)
 
-Overview
+## Overview
+
 The electricity_usage project is a user-friendly tool that aids individuals in understanding their household electricity consumption, by taking into account data imported from the Texas smart meter website. Through this project, users can gain insights into their energy usage patterns and subsequently optimize their consumption for efficiency and savings.
 
 Features
@@ -11,7 +12,8 @@ Features
 
 
 
-Installation
+## Installation
+
 Requirements
 Python 3.7 or newer
 Required Python libraries: pandas, matplotlib, seaborn, numpy
@@ -19,13 +21,15 @@ Required Python libraries: pandas, matplotlib, seaborn, numpy
 Import your usage data from the Texas smart meter website. Make sure the data is in a .csv format and placed in the /data directory.
 
 
-Contributing
+## Contributing
+
 We appreciate all contributions to improve the electricity_usage project. Please feel free to submit a pull request or suggest ideas.
 
 
+## Support
 
-Support
 If you encounter any problems or have any questions about this project, please create a new issue in the repository.
 
-Authors and Acknowledgement
+## Authors and Acknowledgement
+
 This project was created by github.com/rishabh01solanki. Special thanks to the Texas smart meter website for providing the electricity usage data.
