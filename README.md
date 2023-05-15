@@ -1,4 +1,4 @@
-# Electricity Usage
+# EnergyDash
 
 ![Usage for August](aug_usage.png)
 
