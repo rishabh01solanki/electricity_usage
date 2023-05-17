@@ -1,6 +1,14 @@
 # EnergyDash
 
-![Usage for August](aug_usage.png)
+<table>
+  <tr>
+    <td align="center"><img src="consmptn_dec.gif" alt="December Usage"></td>
+    <td align="center"><img src="consmptn_july.gif" alt="July Usage"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="aug_usage.png" alt="August Usage"></td>
+  </tr>
+</table>
 
 ## Overview
 
