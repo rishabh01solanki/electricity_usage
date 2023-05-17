@@ -21,7 +21,7 @@ Features
 * Comparative analysis of electricity usage over different periods
 * Recommendations for optimizing electricity usage based on consumption patterns
 
-
+![Usage for August](aug_usage.png)
 
 ## Installation
 
