@@ -4,9 +4,12 @@
   <tr>
     <td align="center"><img src="consmptn_dec.gif" alt="December Usage"></td>
     <td align="center"><img src="consmptn_july.gif" alt="July Usage"></td>
-    <br>Increase in Power demand during Summer months compared to winter for a suburban house in the sunbelt.</br>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Seasonal Variation in Power Consumption: Comparative Analysis of December and July for a Suburban house in the Sunbelt.</td>
   </tr>
 </table>
+
 
 ## Overview
 
